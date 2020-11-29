@@ -1,0 +1,8 @@
+title: Bioimage analysis fundamentals in Python
+author: Juan Nunez-Iglesias & Nicholas Sofroniew, including work from the scikit-image and napari contributors.
+logo: 'images/logo.png'
+exclude_patterns:
+    - '*/solutions/*'
+    - '*/_build/*'
+execute:
+    execute_notebooks : 'auto'
