@@ -6,3 +6,4 @@ exclude_patterns:
     - '*/_build/*'
 execute:
     execute_notebooks : 'auto'
+    timeout: 300
