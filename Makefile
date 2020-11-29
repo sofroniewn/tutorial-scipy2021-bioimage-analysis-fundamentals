@@ -1,3 +1,6 @@
+clean:
+	rm -rf book/_build
+
 build:
 	jupyter book build --config _config.yml --toc _toc.yml --path-output book .
 
