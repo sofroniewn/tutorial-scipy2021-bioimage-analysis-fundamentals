@@ -21,3 +21,4 @@ dependencies:
 - magicgui
 - pip:
     - jupyter-book
+    - ghp-import
