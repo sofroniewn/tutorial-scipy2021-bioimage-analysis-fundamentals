@@ -19,6 +19,7 @@ dependencies:
 - seaborn
 - dask-image
 - magicgui
+- jupyterlab
 - pip:
     - jupyter-book
     - ghp-import
