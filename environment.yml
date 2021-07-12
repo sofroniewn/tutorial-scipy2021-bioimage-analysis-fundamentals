@@ -1,4 +1,4 @@
-name: i2k
+name: scipy2021-bioimage-analysis
 channels:
 - conda-forge
 dependencies:
