@@ -65,6 +65,23 @@ Alternatively, in an environment including pip, use:
 pip install -U -r requirements.txt
 ```
 
+### checking your installation
+
+You can test to make sure napari was installed correctly launching napari from the command line using the command below. 
+
+```bash
+napari
+```
+
+You are now ready to start the tutorial! We will perform the analysis using Jupyter Notebook. To start Jupyter Notebook, enter
+
+```bash
+jupyter notebook
+```
+
+Jupyter Notebook will open in a browser window and if you click on the lectures folder you'll be ready to get started!
+
+
 ## Datasets
 
 For the dask tutorial, we are going to be using some 3D + t datasets from the
