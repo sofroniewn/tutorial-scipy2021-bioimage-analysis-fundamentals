@@ -12,7 +12,7 @@ notebook
 napari
 pandas
 seaborn
-dask-image
+dask-image==0.5.0
 magicgui
 jupyterlab
 jupyter-book
